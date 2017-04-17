@@ -1,0 +1,1 @@
+Order [person=Person [firstName=Ivan, secondName=Ivanov, passport=12345678], equipmentId=7, rentDate=Mon Apr 17 00:10:38 MSK 2017, rentPeriod=24]
